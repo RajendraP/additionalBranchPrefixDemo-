@@ -6,7 +6,7 @@
   "packageRules": [
     {
       "additionalBranchPrefix": "{{baseDir}}-",
-      "packagePatterns": [".*"]
+      "matchPackagePatterns": [".*"]
     }
   ]
 }
