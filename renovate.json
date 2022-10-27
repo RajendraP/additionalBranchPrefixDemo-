@@ -9,8 +9,7 @@
   "packageRules": [
     {
       "additionalBranchPrefix": "{{baseDir}}-",
-      "matchPackagePatterns": [".*"],
-      "semanticCommitScope": "{{baseDir}}"
+      "matchPackagePatterns": [".*"]
     }
   ]
 }
