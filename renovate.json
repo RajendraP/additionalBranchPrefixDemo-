@@ -8,7 +8,6 @@
   ],
   "packageRules": [
     {
-      "semanticCommitType": "deps",
       "additionalBranchPrefix": "{{baseDir}}-",
       "matchPackagePatterns": [".*"]
     }
